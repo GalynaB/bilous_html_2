@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: #f3f3f5
+}
+
+div {
+  width: 500px;
+  margin: 0 auto;
+  border-bottom: 1px solid #c6c4c5;
+}
+
+.performance {
+  margin-top: 50px;
+  padding-bottom: 10px;
+}
+h1 {
+  font-size: 36px;
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.photo-1 {
+  width: 198px;
+  border: 1px solid #8f8f8f;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+.purpose {
+  font-family: Myriad Pro;
+  padding: 5px 0;
+}
+h2 {
+  font-size: 18px;
+}
+
+.contacts {
+  font-family: Myriad Pro;
+  padding: 5px 0;
+
+}
+.tel {
+  padding: 5px 35px;
+}
+.vk {
+  display: block;
+  width: 70px;
+  padding-left: 35px;
+  padding-bottom: 15px;
+}
+.feedback {
+  font-family: Myriad Pro;
+  padding: 5px 0 280px;
+  border-bottom: none;
+}
