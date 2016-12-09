@@ -29,17 +29,16 @@ h1 {
   margin-bottom: 10px;
 }
 
-.purpose {
+.purpose,
+.contacts,
+.feedback {
   font-family: Myriad Pro;
   padding: 5px 0;
 }
+
 h2 {
   font-size: 18px;
 }
-
-.contacts {
-  font-family: Myriad Pro;
-  padding: 5px 0;
 
 }
 .tel {
@@ -52,7 +51,6 @@ h2 {
   padding-bottom: 15px;
 }
 .feedback {
-  font-family: Myriad Pro;
-  padding: 5px 0 280px;
+  padding-bottom: 280px;
   border-bottom: none;
 }
