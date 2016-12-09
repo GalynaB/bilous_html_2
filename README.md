@@ -1,2 +1,2 @@
 # home_work
-GoIT tech skills home work
+GoIT tech skills homework
